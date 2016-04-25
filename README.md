@@ -19,6 +19,6 @@ P5って、processingで作ったやつをJSに変換できるんですか？
 cos を追加したい
 
 ## guernica
-![guernica](img/guernica.svg)
+![guernica](img/guernica.svg?raw=true)
 
 [1]:	http://www.aozora.gr.jp/cards/000035/files/301_14912.html "人間失格"
